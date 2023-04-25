@@ -1,4 +1,4 @@
-## Fortify Pre Sales 👋
+## Fortify Pre-Sales Sample Applications 👋
 
 This organisation contains sample applications to be used in Fortify Demonstrations. 
 
